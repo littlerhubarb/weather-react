@@ -62,6 +62,10 @@ img {
   width: 120px;
 }
 
+footer {
+  text-align: center;
+}
+
 @media (max-width: 547px) {
 
   form {
