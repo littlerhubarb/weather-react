@@ -1,8 +1,13 @@
 .App {
   max-width: 600px;
   margin: 30px auto;
+  background: grey; opacity: 70%;
 }
 .App footer {
   font-size: 11px;
   margin: 10px 0;
+}
+
+body {
+  background-image: url('https://source.unsplash.com/1600x900/?sky');
 }
